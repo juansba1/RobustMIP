@@ -1,2 +1,2 @@
 # RobustMIP
-PaperRepository.zip has the instances for the ripple effect problem and the robust mcf problem used in the main experiments of the paper. Each type of instance has a readme file. The .zip also has the ECA and SFWA algorithms for both type of instances with individual readmes. They are .m files as should be opened in Matlab and place in the same directory. Each algorithm folder includes also a test data set.  
+PaperRepository.zip has the instances for the ripple effect problem and the robust mcf problem used in the main experiments of the paper. The ECA and SFWA algorithms for each problem are also included. Each type of instance and each algorithm has a readme file. 
